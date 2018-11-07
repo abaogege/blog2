@@ -19,4 +19,8 @@ export default {
 
 <style>
 @import url(./assets/css/normalize.css);
+.w{
+    width: 1200px;
+    margin: 0 auto;
+}
 </style>

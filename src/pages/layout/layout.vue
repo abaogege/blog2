@@ -31,8 +31,13 @@ export default {
 
 .main {
     min-height: 1000px;
-    background-color: hotpink;
+    background-color: #b1b1b1;
+    padding: 10px;
 }
+.main *{
+    box-sizing: border-box;
+}
+
 
 .footer {
     width: 100%;
